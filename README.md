@@ -9,7 +9,7 @@
 <p>During some testing the top of one removing tool broke and that's when I realized I could make a puller for both the XH and PH connectors. This is how XPRT came about, which we use for the uBot robotics platform (https://nonformal.ro/ubot/), which has both types of connectors: XH and PH.</p>
 
 ## Credits
-XPRT was designed by Mihai Agape.
+XPRT was designed by [Mihai Agape](https://github.com/magape).
 
 ## Licence
 [Licensed under the Creative Commons — Attribution-NonCommercial 4.0 International — CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
