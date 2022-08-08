@@ -12,5 +12,5 @@
 XPRT was designed by Mihai Agape.
 
 ## Licence
-Licensed under the Creative Commons — Attribution-NonCommercial 4.0 International — CC BY-NC 4.0
-![image](https://user-images.githubusercontent.com/5248818/183378002-c1c404a6-6597-4efe-8754-c90d145acc15.png).
+[Licensed under the Creative Commons — Attribution-NonCommercial 4.0 International — CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
