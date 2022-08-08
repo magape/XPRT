@@ -3,7 +3,8 @@
 ## What is XPRT
 XPRT is a small 3D printed object which helps you to disconnect the JST XH and PH connectors. XPRT is an acronym for XH & PH Removing Tool.
 
-<img src=https://github.com/magape/XPRT/blob/main/images/XPRT_3Dprinted.jpg title="XPRT = 3D printed" width=40%>
+<img src=https://github.com/magape/XPRT/blob/main/images/XPRT_3Dprinted.jpg title="XPRT - 3D printed" width=40%>
+<img src=https://github.com/magape/XPRT/blob/main/images/XPRT_3D.png title="XPRT - 3D model" width=40%>
 
 ## Why I designed XPRT
 When I introduced the micro:bit development board to my elementary school students, I found that none of them could disconnect the JST PH battery connector from the board. So, I designed a removing tool for the PH connector.
