@@ -20,5 +20,5 @@ During some testing the top of one removing tool broke and that's when I realize
 XPRT was designed by [Mihai Agape](https://github.com/magape).
 
 ## Licence
-[Licensed under the Creative Commons — Attribution-NonCommercial 4.0 International — CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+[Licensed under the Creative Commons — Attribution-ShareAlike 4.0 International — CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
