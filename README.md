@@ -14,6 +14,8 @@ Because we use the JST XH as battery connector for the [Karel robotic platform](
 
 During some testing the top of one removing tool broke and that's when I realized I could make a puller for both the XH and PH connectors. This is how XPRT came about, which we use for the [uBot robotics platform](https://nonformal.ro/ubot), which has both types of connectors: XH and PH.
 
+[![XPRT](https://i9.ytimg.com/vi/Ywm-ZpFIKpw/mq3.jpg?sqp=COCtxJcG&rs=AOn4CLDSHQgCCuQKSGJwHpDBp9eU2YhKow)](https://youtu.be/Ywm-ZpFIKpw)
+
 ## Credits
 XPRT was designed by [Mihai Agape](https://github.com/magape).
 
