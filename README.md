@@ -22,3 +22,9 @@ XPRT was designed by [Mihai Agape](https://github.com/magape).
 ## Licence
 [Licensed under the Creative Commons — Attribution-ShareAlike 4.0 International — CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
+## Note
+
+This project has been initiated as part of the Erasmus+ project ["New Generation Schools in the Light of Education 4.0"](https://eduplus.ro).
+
+## Disclaimer
+The European Commission's support for the project "New Generation Schools in the Light of Education 4.0" does not constitute an endorsement of the contents of this publication, which reflect the views only of the authors, and the Commission cannot be held responsible for any use which may be made of the information contained therein.
